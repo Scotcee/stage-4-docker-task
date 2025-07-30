@@ -11,6 +11,9 @@ This application allows users to create a list of countries they'd like to visit
 it contains image for frontend and backend  
 Run `docker-compose up --build`
 
+##screenshots of dockerised frontend and backend
+![front-end](/docker1.png)
+![back-end](/docker2.png)
 ## Features
 
 - **Add Countries**: Users can add countries to their dream vacation list.
